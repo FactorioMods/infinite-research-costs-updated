@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.4
+  Changes:
+    - Update prototypes and APIs for Factorio 2.1 while preserving existing content and settings.
+    - Adopt the original mod identity through native ownership migration.
