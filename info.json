@@ -1,0 +1,9 @@
+{
+  "name": "Infinite_Research_Costs",
+  "version": "1.0.3",
+  "title": "Infinite Research Costs Modifier",
+  "author": "wortkap",
+  "description": "Adjusts the cost of infinite research to start at 1000 and increase by 1000 for each subsequent level.",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"]
+}
